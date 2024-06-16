@@ -54,8 +54,6 @@
                 };
         };
 
-
-
  backlight {
         compatible = "zmk,backlight";
         label = "Backlight";
